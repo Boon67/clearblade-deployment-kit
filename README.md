@@ -19,7 +19,7 @@ You must have a `ClearBlade Platform System` to which to attach this Edge.
 
 3. Configure a Deployment that is applied to 'All Current and Future Edges'
 
-4. Download and unzip the release kit for your OS and Architecture (ex. amd64-darwin)
+4. Download and unzip the release kit for your OS and Architecture (ex. amd64-darwin). Current Edge releases can be accessed from: https://github.com/ClearBlade/Edge/releases
 
 
 ## Usage
